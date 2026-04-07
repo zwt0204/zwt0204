@@ -1,7 +1,7 @@
 <h1 align="center">⚡ zwt0204 // AI · NLP · ML · Automation</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=980&lines=Building+practical+AI+systems;LLMs+%7C+NLP+%7C+Automation+Pipelines;Shipping+ideas+into+real+projects;Code.+Train.+Deploy.+Iterate." alt="Typing SVG" />
+  Building practical AI systems · NLP pipelines · automation workflows
 </p>
 
 <p align="center">
@@ -11,11 +11,8 @@
   <a href="https://zwt0204.github.io/">
     <img src="https://img.shields.io/badge/Blog-zwt0204.github.io-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog" />
   </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-7c3aed?style=for-the-badge" alt="focus" />
   <img src="https://komarev.com/ghpvc/?username=zwt0204&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:7c3aed,70:2563eb,100:06b6d4&height=200&section=header&text=Welcome%20to%20my%20lab&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20engineering%20%7C%20ML%20systems%20%7C%20workflow%20automation&descAlignY=60" alt="banner" />
 </p>
 
 ---
@@ -32,16 +29,9 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,pytorch,tensorflow,git,linux,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=semanticweb&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=n8n&logoColor=f97316" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=f59e0b" />
-</p>
+- **Languages:** Python, JavaScript, Node.js
+- **ML / AI:** PyTorch, TensorFlow, NLP, LLM applications
+- **Workflow:** Git, Linux, automation pipelines
 
 ---
 
@@ -74,14 +64,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwt0204&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zwt0204&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zwt0204&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🎯 Current Focus
@@ -97,4 +79,4 @@
 - GitHub: <https://github.com/zwt0204>
 - Blog: <https://zwt0204.github.io/>
 
-<!-- style refresh: tech vibe + commit emphasis 2026-04-07T15:23+08:00 -->
+<!-- style refresh: stable tech version 2026-04-07T15:26+08:00 -->
