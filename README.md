@@ -39,12 +39,16 @@ Building practical AI systems, NLP pipelines, and automation workflows.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (sorted by stars)
 
-- [NER_MODEL](https://github.com/zwt0204/NER_MODEL) — named entity recognition related work
-- [text_classfication](https://github.com/zwt0204/text_classfication) — text classification experiments and practice
-- [text_similarity](https://github.com/zwt0204/text_similarity) — text similarity modeling and related exploration
-- [zwt0204.github.io](https://github.com/zwt0204/zwt0204.github.io) — personal blog and notes site
+- [NER_MODEL](https://github.com/zwt0204/NER_MODEL) — 13 stars · named entity recognition related work
+- [text_classfication](https://github.com/zwt0204/text_classfication) — 5 stars · text classification experiments and practice
+- [text_similarity](https://github.com/zwt0204/text_similarity) — 4 stars · text similarity modeling and related exploration
+- [python_](https://github.com/zwt0204/python_) — 2 stars · Python-related practice and code snippets
+- [text_augment](https://github.com/zwt0204/text_augment) — 2 stars · text augmentation exploration
+- [zwt0204.github.io](https://github.com/zwt0204/zwt0204.github.io) — 2 stars · personal blog and notes site
+- [translation](https://github.com/zwt0204/translation) — 1 star · translation related work
+- [Text_summary](https://github.com/zwt0204/Text_summary) — 1 star · text summarization exploration
 
 ---
 
@@ -52,8 +56,10 @@ Building practical AI systems, NLP pipelines, and automation workflows.
 
 - I actively use GitHub to build, iterate, and maintain practical projects
 - My profile focuses on visible engineering output instead of decorative widgets
-- You can browse my repositories here: <https://github.com/zwt0204?tab=repositories>
-- You can view my contribution history here: <https://github.com/zwt0204>
+- View repositories: <https://github.com/zwt0204?tab=repositories>
+- View contribution graph: <https://github.com/zwt0204>
+- View commit history across projects: <https://github.com/zwt0204?tab=overview&from=2026-04-01&to=2026-04-30>
+- Recent activity feed: <https://github.com/zwt0204?tab=overview&from=2026-04-01&to=2026-04-30>
 
 ---
 
@@ -70,4 +76,4 @@ Building practical AI systems, NLP pipelines, and automation workflows.
 - GitHub: <https://github.com/zwt0204>
 - Blog: <https://zwt0204.github.io/>
 
-<!-- style refresh: native stable profile version 2026-04-07T15:46+08:00 -->
+<!-- style refresh: native stable profile + star ranking 2026-04-07T15:50+08:00 -->
