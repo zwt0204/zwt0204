@@ -7,6 +7,10 @@ Building practical AI systems, NLP pipelines, and automation workflows.
 ![Focus](https://img.shields.io/badge/Focus-AI%20Engineering-7c3aed?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=zwt0204&label=Profile%20Views&color=7c3aed&style=for-the-badge)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zwt0204&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Trend" alt="contribution trend graph" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -54,6 +58,10 @@ Building practical AI systems, NLP pipelines, and automation workflows.
 
 ## 📈 GitHub Activity
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zwt0204&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
+</p>
+
 - I actively use GitHub to build, iterate, and maintain practical projects
 - My profile focuses on visible engineering output instead of decorative widgets
 - View repositories: <https://github.com/zwt0204?tab=repositories>
@@ -76,4 +84,4 @@ Building practical AI systems, NLP pipelines, and automation workflows.
 - GitHub: <https://github.com/zwt0204>
 - Blog: <https://zwt0204.github.io/>
 
-<!-- style refresh: native stable profile + star ranking 2026-04-07T15:50+08:00 -->
+<!-- style refresh: cool graph trial version 2026-04-07T15:58+08:00 -->
