@@ -15,11 +15,11 @@ Building practical AI systems, NLP pipelines, and automation workflows.
 
 ## 🚀 About Me
 
-- Focused on **AI / NLP / ML / Automation**
-- Building **practical, production-minded tools**
-- Interested in **LLMs, agents, workflow automation, and applied machine learning**
-- Prefer work that can actually be shipped, iterated, and improved continuously
-- I also write and organize notes at **[zwt0204.github.io](https://zwt0204.github.io/)**
+I work at the intersection of **AI engineering, NLP, machine learning, and automation**.
+
+My focus is not just experimenting with models, but turning ideas into systems that are practical, maintainable, and worth shipping. I care about engineering clarity, iteration speed, and building tools that stay useful beyond the demo stage.
+
+I also write and organize notes at **[zwt0204.github.io](https://zwt0204.github.io/)**.
 
 ---
 
@@ -47,16 +47,25 @@ Building practical AI systems, NLP pipelines, and automation workflows.
 
 ---
 
-## 📌 Featured Projects (sorted by stars)
+## 📌 Selected Work
 
-- [NER_MODEL](https://github.com/zwt0204/NER_MODEL) — 13 stars · named entity recognition related work
-- [text_classfication](https://github.com/zwt0204/text_classfication) — 5 stars · text classification experiments and practice
-- [text_similarity](https://github.com/zwt0204/text_similarity) — 4 stars · text similarity modeling and related exploration
-- [python_](https://github.com/zwt0204/python_) — 2 stars · Python-related practice and code snippets
-- [text_augment](https://github.com/zwt0204/text_augment) — 2 stars · text augmentation exploration
-- [zwt0204.github.io](https://github.com/zwt0204/zwt0204.github.io) — 2 stars · personal blog and notes site
-- [translation](https://github.com/zwt0204/translation) — 1 star · translation related work
-- [Text_summary](https://github.com/zwt0204/Text_summary) — 1 star · text summarization exploration
+### [NER_MODEL](https://github.com/zwt0204/NER_MODEL)
+**13 stars** · Named entity recognition project focused on practical sequence labeling work and model experimentation.
+
+### [text_classfication](https://github.com/zwt0204/text_classfication)
+**5 stars** · Text classification experiments covering applied NLP workflows and modeling practice.
+
+### [text_similarity](https://github.com/zwt0204/text_similarity)
+**4 stars** · Semantic similarity exploration for matching, retrieval, and related text understanding tasks.
+
+### [python_](https://github.com/zwt0204/python_)
+**2 stars** · Python practice repository with reusable snippets and day-to-day coding experiments.
+
+### [text_augment](https://github.com/zwt0204/text_augment)
+**2 stars** · Text augmentation exploration for improving NLP robustness and data efficiency.
+
+### [zwt0204.github.io](https://github.com/zwt0204/zwt0204.github.io)
+**2 stars** · Personal site and note system for writing, organizing knowledge, and publishing technical content.
 
 ---
 
@@ -88,4 +97,4 @@ Building practical AI systems, NLP pipelines, and automation workflows.
 - GitHub: <https://github.com/zwt0204>
 - Blog: <https://zwt0204.github.io/>
 
-<!-- style refresh: cool graph + badge stack version 2026-04-07T16:02+08:00 -->
+<!-- style refresh: portfolio project section + refined about 2026-04-07T16:08+08:00 -->
