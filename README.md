@@ -25,21 +25,25 @@ Building practical AI systems, NLP pipelines, and automation workflows.
 
 ## 🧰 Tech Stack
 
-**Languages**
-- Python
-- JavaScript
-- Node.js
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=facc15" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" />
+</p>
 
-**AI / ML**
-- PyTorch
-- TensorFlow
-- NLP
-- LLM applications
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=f59e0b" />
+  <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=bookstack&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/LLM%20Apps-111827?style=for-the-badge&logo=openai&logoColor=67e8f9" />
+</p>
 
-**Workflow / Engineering**
-- Git
-- Linux
-- Automation pipelines
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f43f5e" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=e5e7eb" />
+  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=60a5fa" />
+  <img src="https://img.shields.io/badge/Engineering-111827?style=for-the-badge&logo=codemagic&logoColor=22d3ee" />
+</p>
 
 ---
 
@@ -84,4 +88,4 @@ Building practical AI systems, NLP pipelines, and automation workflows.
 - GitHub: <https://github.com/zwt0204>
 - Blog: <https://zwt0204.github.io/>
 
-<!-- style refresh: cool graph trial version 2026-04-07T15:58+08:00 -->
+<!-- style refresh: cool graph + badge stack version 2026-04-07T16:02+08:00 -->
